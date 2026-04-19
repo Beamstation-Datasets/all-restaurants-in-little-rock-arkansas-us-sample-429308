@@ -1,12 +1,12 @@
 {
-  "export_job_id": "28ee4dfc-a5d3-443a-b1e8-b90894dc071a",
+  "export_job_id": "79cc7ccd-c51a-4afa-8238-590aaec7cc4e",
   "id_short": 429308,
-  "published_at": "2026-04-12T19:07:21Z",
+  "published_at": "2026-04-19T19:37:04Z",
   "repo_name": "all-restaurants-in-little-rock-arkansas-us-sample-429308",
   "sample_asset_name": "beamstation_429308_restaurants-us-ar_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/429308/beamstation_429308_restaurants-us-ar_SAMPLE_DIST.csv",
-  "sample_records": 95,
-  "sample_sha256": "20c25602006e9e066c013699ff4a14674c31a5628fd268b245591bd7f1636c72",
-  "sample_size_bytes": 321288,
-  "total_records": 951
+  "sample_records": 91,
+  "sample_sha256": "ddf56cf7c8ff1a162dbf6e2eaf90db965bfe844d712a77f0b63f8d11dbb0890c",
+  "sample_size_bytes": 316212,
+  "total_records": 912
 }
